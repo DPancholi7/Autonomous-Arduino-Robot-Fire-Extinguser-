@@ -64,10 +64,12 @@ void loop() // Main Function
    TurnRight90();
    StopServo();
    ReadRightWall();
+   StartServo();
    TurnLeft90();
    TurnLeft90();
    StopServo();
    ReadLeftWall();
+   StartServo();
    TurnRight90();
    StopServo();
    
