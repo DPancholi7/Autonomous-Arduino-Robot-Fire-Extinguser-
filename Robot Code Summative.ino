@@ -1,7 +1,7 @@
  /*
 
 Author : Dhvani Pancholi
-Assignment : Autonomous Robot Code (Summative Assignment)
+Assignment : Autonomous Robot Code 
 Date : 05-10-2019
 Description : Robot Code That Allows Our Robot To Extingish A Flame
 
