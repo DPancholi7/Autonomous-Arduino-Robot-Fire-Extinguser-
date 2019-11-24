@@ -6,7 +6,6 @@ Author & Developer : Dhvani Pancholi
 
 ***************************************************
 |This Program Cannot Be Re-Submitted Without Changes|
-|Changes Must Be Made To Use This Code!|
 |Atleast 40 % Of The Code Must Be Changed!|
 ***************************************************
 
