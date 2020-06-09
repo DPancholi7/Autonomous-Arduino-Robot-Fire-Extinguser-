@@ -10,7 +10,7 @@
 /*
                                     Algorithm Description
 
-  Robot Will Move Forward Untill Ultrasonic Sensor Detects An Obstacle Within 30cm.
+  Robot Will Move Forward Until Ultrasonic Sensor Detects An Obstacle Within 30cm.
   When Obstacle Is Detected, Robot Will Turn 90 Degrees Right And Collect The Distance of The Right Side,
   Robot Will Then Turn 90 Degrees Left And Collect The Distance of The Left Side.
   Robot Will Turn And Navigate In The Direction That Has A Greater Average Distance, It Will Than Process The Cycle
